@@ -3,7 +3,7 @@
 ## Overview  
 The **Sudoku Game** is a C++ application that combines logic and creativity to deliver a dynamic and engaging take on traditional Sudoku puzzles. Built with an object-oriented design, the program features custom classes for managing the game board, user interactions, and visual elements. It includes unique components such as a scoreboard, themed visuals, and specialized mechanics for an enhanced player experience.  
 
-A pre-compiled executable named Sudoku.exe is available in the cmake-build-debug folder.
+An already compiled executable is located within the Precompiled Executable folder.
 
 ![executable picture](Program_Picture.png)
 
