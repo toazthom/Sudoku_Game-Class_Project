@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level>
+    <given id="i366" width="48" height="48" image="2b.png" value="2" />
+    <xray id="i384" width="144" height="144" image="xray.png" capacity="7" />
+    <background id="i389" width="960" height="720" image="background0.png" />
+</level>

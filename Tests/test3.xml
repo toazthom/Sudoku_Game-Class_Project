@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level width="20" height="15" tilewidth="48" tileheight="48">
+    <given id="i579" width="48" height="48" image="0b.png" value="0" />
+    <digit id="i580" width="48" height="48" image="0r.png" value="0" />
+    <given id="i581" width="48" height="48" image="1b.png" value="1" />
+    <digit id="i582" width="48" height="48" image="1r.png" value="1" />
+    <given id="i583" width="48" height="48" image="2b.png" value="2" />
+    <digit id="i584" width="48" height="48" image="2r.png" value="2" />
+    <given id="i585" width="48" height="48" image="3b.png" value="3" />
+    <given id="i586" width="48" height="48" image="4b.png" value="4" />
+    <digit id="i587" width="48" height="48" image="4r.png" value="4" />
+    <given id="i588" width="48" height="48" image="5b.png" value="5" />
+    <digit id="i589" width="48" height="48" image="5r.png" value="5" />
+    <given id="i590" width="48" height="48" image="6b.png" value="6" />
+    <digit id="i591" width="48" height="48" image="6r.png" value="6" />
+    <given id="i592" width="48" height="48" image="7b.png" value="7" />
+    <digit id="i593" width="48" height="48" image="7r.png" value="7" />
+    <given id="i594" width="48" height="48" image="8b.png" value="8" />
+    <digit id="i595" width="48" height="48" image="8r.png" value="8" />
+    <digit id="i598" width="48" height="48" image="3r.png" value="3" />
+    <sparty id="i599" width="96" height="96" front="2" head-pivot-angle="0.8" head-pivot-x="30" head-pivot-y="86" image1="sparty-1.png" image2="sparty-2.png" mouth-pivot-angle="1" mouth-pivot-x="39" mouth-pivot-y="86" target-x="72" target-y="24" />
+    <background id="i600" width="960" height="720" image="background.png" />
+    <xray id="i601" width="144" height="144" image="xray.png" capacity="7" />
+</level>
